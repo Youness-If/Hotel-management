@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642715453 source:c:\users\youne\desktop\gestionhotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
